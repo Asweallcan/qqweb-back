@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5d32d71-f7dc-4a84-ae90-a588731ef913" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change beforePath="$PROJECT_DIR$/model/db.js" afterPath="$PROJECT_DIR$/model/db.js" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/.postcssrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/check-versions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/dev-client.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/dev-server.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/vue-loader.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.base.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.dev.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.prod.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.test.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/config/dev.env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/config/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/config/prod.env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/config/test.env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/App.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/background.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/About/About.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/Footer.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/message.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/message_selected.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/person.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/person_selected.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/social.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/social_selected.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Header/Header.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/SideMenu/SideMenu.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/ForgetPwd/ForgetPwd.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Friend/Friend.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Login/Login.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Login/ServiceTerm.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatGroup.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatOne.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/Message.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/Profile.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/fhe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/info.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/place.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/qq.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Regist/Regist.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Setting/Setting.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/splash.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/router/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/actions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/getters.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/mutation-types.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/mutations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/static/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/custom-assertions/elementCount.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/nightwatch.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/runner.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/specs/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/.eslintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/specs/Hello.spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/qqweb_2.sql" afterPath="$PROJECT_DIR$/qqweb_2.sql" />
+      <change beforePath="$PROJECT_DIR$/router/router.js" afterPath="$PROJECT_DIR$/router/router.js" />
+      <change beforePath="$PROJECT_DIR$/view/index.html" afterPath="$PROJECT_DIR$/view/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="db.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initmessage</find>
+      <find>local</find>
+      <find>sendOne</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qqweb-view/src/main.js" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/App.vue" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/store/mutations.js" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Common/SideMenu/SideMenu.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/Footer.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Common/Header/Header.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatOne.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Message/Message.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/qqweb_2.sql" />
+        <option value="$PROJECT_DIR$/view/index.html" />
+        <option value="$PROJECT_DIR$/router/router.js" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/About/About.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/ForgetPwd/ForgetPwd.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Friend/Friend.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Login/ServiceTerm.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatGroup.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Profile/Profile.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Regist/Regist.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Setting/Setting.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" />
+        <option value="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" />
+        <option value="$PROJECT_DIR$/model/db.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qq-web-simple-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qq-web-simple-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d32d71-f7dc-4a84-ae90-a588731ef913" name="Default" comment="" />
+      <created>1512002635118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512002635118</updated>
+      <workItem from="1512002720810" duration="1116000" />
+      <workItem from="1512003876654" duration="11943000" />
+      <workItem from="1512959059743" duration="525000" />
+      <workItem from="1512960100884" duration="435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14270613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2044199" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21664767" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/Header/Header.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/Footer.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/store/mutations.js" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/SideMenu/SideMenu.vue" />
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Message/Message.vue" />
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatOne.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="101" column="27" lean-forward="false" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/store/mutations.js" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/SideMenu/SideMenu.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatOne.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Message/Message.vue" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecosystem.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="719" lean-forward="false" selection-start-line="1" selection-start-column="719" selection-end-line="1" selection-end-column="719" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/css/app.2e1d947ede9533d20ab9e0ab6b2865a0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2069">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/css/app.fc5f5398a684a34e325fb141ef5cb736.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2069">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.07f0b619992dd7be12d7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2457">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.8d10348648511815e66f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3843">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.27b0b1cd9421a20e23b7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.9f0d61d097bef3af2c72.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.c8c20c04bb36a0ab192f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.e906ca8a7abba43ca0d1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.8ec9c117a21c937a13e0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.17e9d5d118bba8c2d604.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.b2b3aec2ff39bf07dd87.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.61abafececcfae1ddd74.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.968f6a44d791ce888691.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="187" column="24" lean-forward="false" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/About/About.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/Footer.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Common/Header/Header.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/ForgetPwd/ForgetPwd.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Friend/Friend.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Login/Login.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Login/ServiceTerm.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatGroup.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Profile/Profile.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Regist/Regist.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Setting/Setting.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" />
+    <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" />
+    <entry file="file://$PROJECT_DIR$/model/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
