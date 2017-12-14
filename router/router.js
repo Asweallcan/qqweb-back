@@ -1,4 +1,3 @@
-
 var express = require("express");
 var db = require("../model/db.js");
 var crypto = require("crypto");
@@ -142,7 +141,7 @@ router.post("/api/dosetting", async function(req, res) {
         db
             .update("user_detail", `qq="${req.session.user.qq}"`, `nickname="${userinfo.nickname}",signature="${userinfo.signature}",age="${userinfo.age}",place="${userinfo.place}",question="${userinfo.question}",answer="${userinfo.answer}",avatar="${avatar}",background="${background}"`)
             .then(() => {
-                res.redirect("/message");
+                res.redirect("/#/message");
             })
             .catch(err => {
                 console.log(err);
@@ -151,14 +150,14 @@ router.post("/api/dosetting", async function(req, res) {
 });
 
 router.get("/api/getgroupmessage", async function(req, res) {
-    let messages = await db.find(`SELECT message_group.message,message_group.time,message_group.from_user,user_detail.avatar,user_detail.nickname FROM message_group join user_detail WHERE user_detail.qq=message_group.from_user ORDER BY message_group.time`);
+    let messages = await db.find(`SELECT message,time,from_user,avatar,nickname FROM message_group,user_detail WHERE qq=from_user ORDER BY time`);
     res.send(messages);
 });
 
 router.get("/api/getprivatemessage", async function(req, res) {
     let qq1 = req.query.qq_1;
     let qq2 = req.query.qq_2;
-    let messages = await db.find(`SELECT message_user.from_user,message_user.message,message_user.time,user_detail.avatar as from_user_avatar FROM message_user join user_detail WHERE (message_user.from_user="${qq1}" AND message_user.to_user="${qq2}" OR message_user.from_user="${qq2}" AND message_user.to_user="${qq1}") AND message_user.from_user=user_detail.qq ORDER BY message_user.time`);
+    let messages = await db.find(`SELECT from_user,message,time,avatar as from_user_avatar FROM message_user,user_detail WHERE (from_user="${qq1}" AND to_user="${qq2}" OR from_user="${qq2}" AND to_user="${qq1}") AND from_user=qq ORDER BY time`);
     res.send(messages);
 });
 
@@ -171,7 +170,7 @@ router.get("/api/updatemessage", async function(req, res) {
 
 router.get("/api/getunread", async function(req, res) {
     let qq = req.query.qq;
-    let messages = await db.find(`SELECT message_user.message,message_user.isread,message_user.from_user,user_detail.nickname as from_user_nickname,user_detail.avatar as from_user_avatar FROM message_user join user_detail WHERE message_user.to_user="${qq}" AND message_user.isread=0 AND message_user.from_user=user_detail.qq`);
+    let messages = await db.find(`SELECT message,isread,from_user,nickname as from_user_nickname,avatar as from_user_avatar FROM message_user,user_detail WHERE to_user="${qq}" AND isread=0 AND from_user=qq`);
     res.send(messages);
 });
 

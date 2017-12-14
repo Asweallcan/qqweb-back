@@ -2,81 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5d32d71-f7dc-4a84-ae90-a588731ef913" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change beforePath="$PROJECT_DIR$/model/db.js" afterPath="$PROJECT_DIR$/model/db.js" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/.babelrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/.postcssrc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/build.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/check-versions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/dev-client.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/dev-server.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/utils.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/vue-loader.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.base.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.dev.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.prod.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/build/webpack.test.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/config/dev.env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/config/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/config/prod.env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/config/test.env.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/App.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/background.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/About/About.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/Footer.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/message.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/message_selected.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/person.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/person_selected.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/social.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Footer/social_selected.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/Header/Header.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Common/SideMenu/SideMenu.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/ForgetPwd/ForgetPwd.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Friend/Friend.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Login/Login.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Login/ServiceTerm.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatGroup.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/ChatOne.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Message/Message.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/Profile.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/fhe.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/info.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/place.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Profile/qq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Regist/Regist.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Setting/Setting.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/splash.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/router/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/actions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/getters.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/mutation-types.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/src/store/mutations.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/static/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/custom-assertions/elementCount.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/nightwatch.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/runner.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/e2e/specs/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/.eslintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/karma.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb-view/test/unit/specs/Hello.spec.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qqweb_2.sql" afterPath="$PROJECT_DIR$/qqweb_2.sql" />
+      <change beforePath="$PROJECT_DIR$/public/avatar/1171858317.jpg" afterPath="$PROJECT_DIR$/public/avatar/1171858317.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/avatar/15007272717.jpg" afterPath="$PROJECT_DIR$/public/avatar/15007272717.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/avatar/296877137.jpg" afterPath="$PROJECT_DIR$/public/avatar/296877137.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/background/1171858317.jpg" afterPath="$PROJECT_DIR$/public/background/1171858317.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/background/296877137.jpg" afterPath="$PROJECT_DIR$/public/background/296877137.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_0d7de4e961291f903d29d5c5d6931ebe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_1fc703feccf5f3b018cc4b4ff882207b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_209b236d44c22f6d6a46cf54f24e056f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_210a001ff5628a75ed3d98e43a400615" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_35df01649d00828ad8ec1dfd2ad57fc9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_3f8a98742dd095a882f35ab295e71b7f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_42ff8a6994b517705f3564e9374c8d13" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_45b017be78a5f350e1613551e4295779" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_4655d9bc5b41ecdb7b8ec2da45f28090" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_48732c8a0fa8359078d56b6cbb447054" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_528c0a196bd80dcb08c2e5638cbc2925" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_53e0d727705426760dad5a2d211905c5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_5837ae4350f9e4443b708c3cc08afd75" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_6686025753775e09e4ce2bb047edbb8b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_73949c7363d3372cd1c8333308e56e67" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_7fc1aed119f6826e44437ddd46d3e7c5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_8062adfbdb6891defcb9b4339d3f0640" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_8a512b29a38d4277c96f6c15f6cde622" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_9f99a99718d58e344ddbab5fcf531bef" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_a480224eb07d81da09843aeeea36b0a4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_b306e7f60ae47250c258f4be1f45fa61" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_becadb15c6683b9f90abc45f8ef35f80" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_c283c09e8ef01bf165ebc3956d234079" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_d3beb351783533d9005031bceb58a090" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_d78cac434d4d826ba7b8db3d8e057daf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_d8a836382c0117db5e3dc23dbafe8ae9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_dd0296fba0b45dc4955b4d292b8bdbb4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_dd8045a38f8cfed744da6843ab778e5d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_e0b47134317338d094ff630e0228dc16" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_e7abf9130c8d7bffbecb9ccb152c33b5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_e862eb71ece6d7930a27cb97d98c778d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_ebe7aa591dd04bd091d9c537b04df1ef" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_f7c6b0b98fb71ec90e6620fdd6277a1a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/temp/upload_fc7b4e8829a27949ae06c7bb511bdff6" afterPath="" />
       <change beforePath="$PROJECT_DIR$/router/router.js" afterPath="$PROJECT_DIR$/router/router.js" />
       <change beforePath="$PROJECT_DIR$/view/index.html" afterPath="$PROJECT_DIR$/view/index.html" />
     </list>
@@ -92,11 +57,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="db.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/db.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
+            <state relative-caret-position="2079">
               <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/router/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -129,7 +104,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/qqweb_2.sql" />
         <option value="$PROJECT_DIR$/view/index.html" />
-        <option value="$PROJECT_DIR$/router/router.js" />
         <option value="$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" />
         <option value="$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" />
         <option value="$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" />
@@ -145,6 +119,7 @@
         <option value="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" />
         <option value="$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" />
         <option value="$PROJECT_DIR$/model/db.js" />
+        <option value="$PROJECT_DIR$/router/router.js" />
       </list>
     </option>
   </component>
@@ -162,9 +137,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="38" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -199,24 +174,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="qq-web-simple-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qq-web-simple-master" type="462c0819:PsiDirectoryNode" />
+              <item name="qqweb-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qqweb-back" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qqweb-view" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -259,24 +234,28 @@
       <workItem from="1512003876654" duration="11943000" />
       <workItem from="1512959059743" duration="525000" />
       <workItem from="1512960100884" duration="435000" />
+      <workItem from="1512962972805" duration="763000" />
+      <workItem from="1512984072711" duration="492000" />
+      <workItem from="1513234641001" duration="2000" />
+      <workItem from="1513234654828" duration="1015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14019000" />
+    <option name="totallyTimeSpent" value="16291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14270613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.102008455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2044199" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21664767" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2018244" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -364,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="719" lean-forward="false" selection-start-line="1" selection-start-column="719" selection-end-line="1" selection-end-column="719" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/static/css/app.2e1d947ede9533d20ab9e0ab6b2865a0.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2069">
@@ -378,97 +350,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/css/app.fc5f5398a684a34e325fb141ef5cb736.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2069">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/0.07f0b619992dd7be12d7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2457">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/0.8d10348648511815e66f.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3843">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/0.27b0b1cd9421a20e23b7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/app.9f0d61d097bef3af2c72.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/app.c8c20c04bb36a0ab192f.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/app.e906ca8a7abba43ca0d1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.8ec9c117a21c937a13e0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.17e9d5d118bba8c2d604.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.b2b3aec2ff39bf07dd87.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.61abafececcfae1ddd74.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.968f6a44d791ce888691.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="187" column="24" lean-forward="false" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/view/static/css/app.fc5f5398a684a34e325fb141ef5cb736.css" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.07f0b619992dd7be12d7.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.8d10348648511815e66f.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/0.27b0b1cd9421a20e23b7.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.9f0d61d097bef3af2c72.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.c8c20c04bb36a0ab192f.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/app.e906ca8a7abba43ca0d1.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.8ec9c117a21c937a13e0.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.17e9d5d118bba8c2d604.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/manifest.b2b3aec2ff39bf07dd87.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.61abafececcfae1ddd74.js" />
+    <entry file="file://$PROJECT_DIR$/view/static/js/vendor.968f6a44d791ce888691.js" />
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/assets/variables.scss" />
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/assets/cards.scss" />
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/base/Scroll/Scroll.vue" />
@@ -485,10 +378,26 @@
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Setting/Setting.vue" />
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Welcome.vue" />
     <entry file="file://$PROJECT_DIR$/qqweb-view/src/pages/Welcome/Boot.vue" />
+    <entry file="file://$PROJECT_DIR$/view/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="719" lean-forward="false" selection-start-line="0" selection-start-column="719" selection-end-line="0" selection-end-column="719" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/db.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
+        <state relative-caret-position="2079">
           <caret line="99" column="2" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
